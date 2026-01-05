@@ -1,5 +1,5 @@
 # MCAkit
-Code for “MCA: High-Dimensional Modal Component Analysis towards the Mode”
+This repository contains MATLAB functions for “MCA: High-Dimensional Modal Component Analysis towards the Mode”
 
 ## Main Files
 
@@ -64,6 +64,22 @@ FLregularize.m---regularize the factor and loading
 mixture_normal.m---generate random variables from the mixtural-normal distribution
 
 skewt_azzalini.m---generate random variables from the Azzalini skew-t distribution
+
+## Reference
+
+Hansen, B. E. (2005). Exact mean integrated squared error of higher order kernel estimators.
+
+He, Y., Li, L., Liu, D., and Zhou, W.-X. (2025). Huber principal component analysis for large dimensional factor models. 
+
+Chen, L., Dolado, J. J., and Gonzalo, J. (2021). Quantile factor models.
+
+Sun, Z. and Tu, Y. (2025). MCA: High-Dimensional Modal Component Analysis towards the Mode
+
+Yao, W. and Li, L. (2014). A new regression model: modal linear regression.
+
+
+
+ 
 
 
 
